@@ -61,3 +61,8 @@ python ./scripts/orchestrator.py   --source bamboohr   --email jane.doe@company.
 
 ## 📝 License
 MIT — see `LICENSE`.
+
+---
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/suresh-1001/hr-onboarding-automation)
