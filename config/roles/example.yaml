@@ -1,0 +1,4 @@
+role: Finance Analyst
+workspace_groups:
+  - finance@company.com
+intune_policy: Finance_Baseline
